@@ -38,7 +38,7 @@ header nav{
 }
 
 .menu-icon{
-    background-image: url(/assets/menu-de-puntos.png);
+    background-image: url('https://www.flaticon.es/svg/vstatic/svg/17/17704.svg?token=exp=1616209386~hmac=1119fe04dfe87b5fde4ce97b29fce6a9');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
