@@ -98,7 +98,7 @@ main .main-input-container:hover{
 }
 
 main .main-input .search-icon{
-    background-image: url('./assets/lupa.svg');
+    background-image: url('https://www.flaticon.es/svg/vstatic/svg/622/622669.svg?token=exp=1616209188~hmac=e1c29674ffe941c86d3823d32c472f7b');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -109,7 +109,7 @@ main .main-input .search-icon{
 
 
 main .main-input .micro-item{
-    background-image: url('./assets/voz.svg');
+    background-image: url('https://www.flaticon.es/svg/vstatic/svg/59/59116.svg?token=exp=1616209237~hmac=6675ed19795013cca6869a547d1ec473');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
