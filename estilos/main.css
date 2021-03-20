@@ -98,7 +98,7 @@ main .main-input-container:hover{
 }
 
 main .main-input .search-icon{
-    background-image: url('/assets/lupa.svg');
+    background-image: url('./assets/lupa.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -109,7 +109,7 @@ main .main-input .search-icon{
 
 
 main .main-input .micro-item{
-    background-image: url('/assets/voz.svg');
+    background-image: url('./assets/voz.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
